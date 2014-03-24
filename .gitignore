@@ -1,8 +1,8 @@
 
-images/*
-fonts/*
-assets/*
-*.jpg
-*.gif
-*.png
-*.ico
+# images/*
+# fonts/*
+# assets/*
+# *.jpg
+# *.gif
+# *.png
+# *.ico
